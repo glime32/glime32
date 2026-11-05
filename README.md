@@ -22,6 +22,7 @@ Salut 👋 Je suis étudiant en L1 double licence maths-info à l'Université de
 | [**stylus-oled**](https://github.com/glime32/stylus-oled) | Thème noir OLED + violet pour plus de 60 sites, mis à jour tout seul |
 | [**nouvel-onglet-oled**](https://github.com/glime32/nouvel-onglet-oled) | Page Nouvel onglet assortie pour Chromium / Helium |
 | [**soundcloud-mobile**](https://github.com/glime32/soundcloud-mobile) | SoundCloud façon Spotify sur téléphone, sans pub ni appli |
+| [**pdf-moodle-restore**](https://github.com/glime32/pdf-moodle-restore) | Rouvre les PDF Moodle après un redémarrage du navigateur : reconnexion CAS automatique (ENT Montpellier) |
 
 ## 🎮 Jeux
 
