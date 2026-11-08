@@ -46,6 +46,7 @@ Salut 👋 Je suis étudiant en L1 double licence maths-info à l'Université de
 | Projet | |
 |---|---|
 | [**helium-theme-oled-violet**](https://github.com/glime32/helium-theme-oled-violet) | Helium tout noir OLED + violet, pages internes comprises, mis à jour tout seul |
+| [**stylus-magique**](https://github.com/glime32/stylus-magique) | Le style de ma page Nouvel onglet sur 278 domaines : noir OLED, violet et bleu, titres Gloock |
 | [**stylus-oled**](https://github.com/glime32/stylus-oled) | Thème noir OLED + violet pour plus de 60 sites, mis à jour tout seul |
 | [**nouvel-onglet-oled**](https://github.com/glime32/nouvel-onglet-oled) | Page Nouvel onglet assortie pour Chromium / Helium |
 | [**soundcloud-mobile**](https://github.com/glime32/soundcloud-mobile) | SoundCloud façon Spotify sur téléphone, sans pub ni appli |
