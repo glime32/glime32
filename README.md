@@ -50,6 +50,7 @@ Des classiques de l'informatique écrits de zéro, en C, Rust, Python et SQL.
 | Projet | |
 |---|---|
 | [**battrack**](https://github.com/glime32/battrack) | Ce qui vide la batterie, appli par appli et onglet par onglet (C, sans root) |
+| [**kde-econome**](https://github.com/glime32/kde-econome) | La batterie ménagée toute seule : Bluetooth coupé s'il ne sert pas, écran à 60 Hz sur batterie, plafond de charge remis, Performance oublié quitté (Rust) |
 | [**palm-guard**](https://github.com/glime32/palm-guard) | Rejet de paume pour écran tactile sous Wayland, pour dessiner au stylet dans Xournal++ (Rust) |
 | [**kde-tablette-outils**](https://github.com/glime32/kde-tablette-outils) | Mode tablette sur un 2-en-1 : clavier, pavé et touches Fn coupés, clavier virtuel, menu d'un glissé depuis le bas (Rust) |
 | [**zoom-veille**](https://github.com/glime32/zoom-veille) | Ferme Zoom quand il tourne pour rien dans le tray (Rust) |
